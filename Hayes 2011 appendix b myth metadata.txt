@@ -1,0 +1,23 @@
+Metadata for Hayes 2011 appendix b myth data.
+
+This is data from Appendix B in Hayes (2011): AN ANALYSIS OF FRINGED MYOTIS (MYOTIS THYSANODES), WITH A FOCUS ON COLORADO DISTRIBUTION, MATERNITY ROOST SELECTION, AND PRELIMINARY MODELING OF POPULATION DYNAMICS.   
+
+Revised by Mark A. Hayes, June 23, 2017. 
+
+The csv "Hayes 2011 appendix b myth data.csv" contains the following information, which is described in more detail in the methods section of the manuscript:
+
+Column A, "No": A unique number for each record, in ascending order, with records sorted by county name.
+Column B, "Location": A text description of the location of the recorded occurrence. 
+Column C, "County": The Colorado county in which the occurrence was recorded. 
+Column D, "Elev (m)": The estimated elevation of the location in meters.
+Column E, "Date": The date the occurrence was documented in MM/DD/YYYY.
+Column F, "Name or Citation": The name of the person of citation that recorded the observation.
+Column G, "Sex": The sex of the bat, F = female, M = Male, U or UNK = unknown, and no data indicating that sex was not recorded.
+Column H, "Age": The age of the bat, A = adult, J = juvenile, and no data indicating that age was not recorded.
+Column I, "Repro Status": The reproductive status of the individual, if listed, with P = pregnant, L = lactating, UNK = unknown, NS = non-scrotal, S = scrotal, NLNP = not lactating and not pregnant, NR = non-reproductive, and no data meaning that reproductive status was not recorded.
+Column J, "Zone": The UTM zone.
+Column K, "Easting": The UTM easting.  
+Column L, "Northing": The UTM northing.
+
+
+Please feel free to contact Mark Hayes at hayes.a.mark@gmail.com if you have questions or comments about this dataset.  

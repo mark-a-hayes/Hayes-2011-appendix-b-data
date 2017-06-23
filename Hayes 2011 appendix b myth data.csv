@@ -1,0 +1,752 @@
+No.,Location,County,Elev (m),Date,Name or Citation,Sex,Age,Repro,Zone,Easting,Northing
+1,Murray Cabin,Archuleta,2256,7/9/97,BIMP,F,A,P,13,334148,4112610
+2,Murray Cabin,Archuleta,2256,7/9/97,BIMP,F,A,,13,334148,4112610
+3,Murray Cabin,Archuleta,2256,7/9/97,BIMP,F,A,P,13,334148,4112610
+4,Murray Cabin,Archuleta,2256,7/9/97,BIMP,F,A,P,13,334148,4112610
+5,Murray Cabin,Archuleta,2256,7/9/97,BIMP,U,,,13,334148,4112610
+6,Murray Cabin,Archuleta,2256,7/9/97,BIMP,U,,,13,334148,4112610
+7,Murray Cabin,Archuleta,2256,10/3/97,BIMP,M,,,13,334148,4112610
+8,Murray Cabin,Archuleta,2256,5/27/09,Hayes,F,A,UNK,13,334148,4112610
+9,Murray Cabin,Archuleta,2256,5/27/09,Hayes,F,A,UNK,13,334148,4112610
+10,Murray Cabin,Archuleta,2256,5/27/09,Hayes,F,A,UNK,13,334148,4112610
+11,Murray Cabin,Archuleta,2256,5/27/09,Hayes,F,A,UNK,13,334148,4112610
+12,Murray Cabin,Archuleta,2256,5/27/09,Hayes,F,A,UNK,13,334148,4112610
+13,Murray Cabin,Archuleta,2256,5/27/09,Hayes,F,A,UNK,13,334148,4112610
+14,Murray Cabin,Archuleta,2256,5/27/09,Hayes,F,A,UNK,13,334148,4112610
+15,Skull Mine,Baca,1409,9/14/77,Ellinwood,U,,,13,673713,4104862
+16,Skull Mine,Baca,1409,9/14/77,Ellinwood,U,,,13,673713,4104862
+17,Skull Mine,Baca,1409,9/21/01,Navo,F,A,PL,13,673713,4104862
+18,Skull Mine,Baca,1409,7/23/07,"Hayes, Navo, Bonewell",F,J,,13,673713,4104862
+19,Skull Mine,Baca,1409,7/23/07,"Hayes, Navo, Bonewell",M,J,,13,673713,4104862
+20,Skull Mine,Baca,1409,7/23/07,"Hayes, Navo, Bonewell",M,J,,13,673713,4104862
+21,Skull Mine,Baca,1409,9/6/09,"Hayes, Bonewell",,,~75 MYTH,13,673713,4104862
+22,2nd Flatiron,Boulder,1951,,Adams,F,,,13,475190,4426510
+23,Abbey Pond,Boulder,1789,7/8/95,Adams,F,A,P,13,477520,4423780
+24,Abbey Pond,Boulder,1789,8/26/95,Adams,M,A,ND,13,477520,4423780
+25,Abbey Pond,Boulder,1789,8/1/96,Adams,M,A,S,13,477520,4423780
+26,Abbey Pond,Boulder,1789,8/23/96,Adams,M,J,NS,13,477520,4423780
+27,Abbey Pond,Boulder,1789,8/23/96,Adams,M,J,NS,13,477520,4423780
+28,Abbey Pond,Boulder,1789,8/12/97,Adams,F,A,L,13,477520,4423780
+29,Abbey Pond,Boulder,1789,8/19/98,Adams,F,J,NLNP,13,477520,4423780
+30,Abbey Pond,Boulder,1789,8/7/01,Navo/CNHP,M,A,NB,13,477520,4423780
+31,Abbey Pond,Boulder,1789,8/7/01,Navo/CNHP,F,A,L,13,477520,4423780
+32,Abbey Pond,Boulder,1789,8/8/05,Kiser,F,A,L,13,477520,4423780
+33,Abbey Pond,Boulder,1789,8/8/05,Kiser,F,A,L,13,477520,4423780
+34,Abbey Pond,Boulder,1789,8/8/05,Kiser,F- SA,A,NL,13,477520,4423780
+35,Abbey Pond,Boulder,1789,8/8/05,Kiser,M,A,S,13,477520,4423780
+36,Abbey Pond,Boulder,1789,8/8/05,Kiser,F,A,L,13,477520,4423780
+37,Bear Creek,Boulder,1883,8/16/95,Adams,F,A,L,13,475761,4424529
+38,Bear Creek,Boulder,1883,8/16/95,Adams,F,A,L,13,475761,4424529
+39,Bear Creek,Boulder,1883,8/16/95,Adams,F,A,L,13,475761,4424529
+40,Bear Creek,Boulder,1883,8/16/95,Adams,M,A,S,13,475761,4424529
+41,Bear Creek,Boulder,1883,5/30/96,Adams,F,A,NLNP,13,475761,4424529
+42,Bear Creek,Boulder,1883,5/30/96,Adams,F,A,NLNP,13,475761,4424529
+43,Bear Creek,Boulder,1883,5/30/96,Adams,M,A,NS,13,475761,4424529
+44,Bear Creek,Boulder,1883,7/2/96,Adams,F,A,P,13,475761,4424529
+45,Bear Creek,Boulder,1883,7/2/96,Adams,M,A,NS,13,475761,4424529
+46,Bear Creek,Boulder,1883,7/16/96,Adams,F,A,L,13,475761,4424529
+47,Bear Creek,Boulder,1883,8/11/96,Adams,M,A,A,13,475761,4424529
+48,Bear Creek,Boulder,1883,8/11/96,Adams,F,J,NLNP,13,475761,4424529
+49,Bear Creek,Boulder,1883,8/11/96,Adams,F,A,L,13,475761,4424529
+50,Bear Creek,Boulder,1883,8/11/96,Adams,F,A,NLNP,13,475761,4424529
+51,Bear Creek,Boulder,1883,8/11/96,Adams,M,A,S,13,475761,4424529
+52,Bear Creek,Boulder,1883,8/11/96,Adams,M,J,NS,13,475761,4424529
+53,Bear Creek,Boulder,1883,6/4/97,Adams,F,A,UNK,13,475761,4424529
+54,Bear Creek,Boulder,1883,6/4/97,Adams,M,A,NS,13,475761,4424529
+55,Bear Creek,Boulder,1883,6/4/97,Adams,F,A,P,13,475761,4424529
+56,Bear Creek,Boulder,1883,6/4/97,Adams,F,A,P,13,475761,4424529
+57,Bear Creek,Boulder,1883,6/4/97,Adams,F,A,P,13,475761,4424529
+58,Bear Creek,Boulder,1883,6/4/97,Adams,M,A,NS,13,475761,4424529
+59,Bear Creek,Boulder,1883,6/18/97,Adams,M,A,NS,13,475761,4424529
+60,Bear Creek,Boulder,1883,6/18/97,Adams,M,A,NS,13,475761,4424529
+61,Bear Creek,Boulder,1883,6/18/97,Adams,M,A,NS,13,475761,4424529
+62,Bear Creek,Boulder,1883,6/18/97,Adams,F,A,P,13,475761,4424529
+63,Bear Creek,Boulder,1883,6/18/97,Adams,UN K,A,UNK,13,475761,4424529
+64,Bear Creek,Boulder,1883,7/21/97,Adams,F,A,L,13,475761,4424529
+65,Bear Creek,Boulder,1883,7/21/97,Adams,F,A,L,13,475761,4424529
+66,Bear Creek,Boulder,1883,7/21/97,Adams,F,A,L,13,475761,4424529
+67,Bear Creek,Boulder,1883,8/15/97,Adams,F,A,L,13,475761,4424529
+68,Bear Creek,Boulder,1883,8/15/97,Adams,M,J,NS,13,475761,4424529
+69,Bear Creek,Boulder,1883,8/15/97,Adams,M,A,NS,13,475761,4424529
+70,Bear Creek,Boulder,1883,8/23/97,Adams,F,J,NLNP,13,475761,4424529
+71,Bear Creek,Boulder,1883,8/23/97,Adams,F,A,L,13,475761,4424529
+72,Bear Creek,Boulder,1883,5/30/98,Adams,M,A,NS,13,475761,4424529
+73,Bear Creek,Boulder,1883,5/30/98,Adams,M,A,NS,13,475761,4424529
+74,Bear Creek,Boulder,1883,6/25/98,Adams,F,A,NLNP,13,475761,4424529
+75,Bear Creek,Boulder,1883,6/25/98,Adams,F,A,L,13,475761,4424529
+76,Bear Creek,Boulder,1883,6/25/98,Adams,M,A,NS,13,475761,4424529
+77,Bear Creek,Boulder,1883,6/25/98,Adams,M,A,NS,13,475761,4424529
+78,Bear Creek,Boulder,1883,6/25/98,Adams,M,A,NS,13,475761,4424529
+79,Bear Creek,Boulder,1883,8/8/98,Adams,F,J,NPNL,13,475761,4424529
+80,Bear Creek,Boulder,1883,8/8/98,Adams,F,A,L,13,475761,4424529
+81,Bear Creek,Boulder,1883,8/8/98,Adams,F,A,L,13,475761,4424529
+82,Bear Creek,Boulder,1883,8/8/98,Adams,F,A,L,13,475761,4424529
+83,Bear Creek,Boulder,1883,8/8/98,Adams,F,A,L,13,475761,4424529
+84,Bear Creek,Boulder,1883,8/8/98,Adams,F,J,NLNP,13,475761,4424529
+85,Bear Creek,Boulder,1883,8/8/98,Adams,F,J,NLNP,13,475761,4424529
+86,Bear Creek,Boulder,1883,8/8/98,Adams,M,J,NS,13,475761,4424529
+87,Bear Creek,Boulder,1883,8/8/98,Adams,M,A,S,13,475761,4424529
+88,Bear Creek,Boulder,1883,5/26/99,Adams,F,A,L,13,475761,4424529
+89,Bear Creek,Boulder,1883,5/26/99,Adams,F,A,L,13,475761,4424529
+90,Bear Creek,Boulder,1883,5/26/99,Adams,M,A,NS,13,475761,4424529
+91,Bear Creek,Boulder,1883,5/26/99,Adams,M,A,NS,13,475761,4424529
+92,Bear Creek,Boulder,1883,5/26/99,Adams,F,A,P,13,475761,4424529
+93,Bear Creek,Boulder,1883,7/5/99,Adams,F,A,P,13,475761,4424529
+94,Bear Creek,Boulder,1883,7/5/99,Adams,F,A,L,13,475761,4424529
+95,Bear Creek,Boulder,1883,7/5/99,Adams,F,A,L,13,475761,4424529
+96,Bear Creek,Boulder,1883,7/5/99,Adams,M,A,NS,13,475761,4424529
+97,Bear Creek,Boulder,1883,8/24/99,Adams,F,A,PL,13,475761,4424529
+98,Bear Creek,Boulder,1883,8/24/99,Adams,M,A,S,13,475761,4424529
+99,Bear Creek,Boulder,1883,8/24/99,Adams,M,A,S,13,475761,4424529
+100,Bear Creek,Boulder,1883,8/24/99,Adams,M,A,NS,13,475761,4424529
+101,Bear Creek,Boulder,1883,8/24/99,Adams,M,A,S,13,475761,4424529
+102,Bear Creek,Boulder,1883,6/17/01,Adams,M,A,NS,13,475761,4424529
+103,Bear Canyon,Boulder,NL,6/23/04,Kiser,F,A,P,13,475761,4424529
+104,Bear Canyon,Boulder,NL,6/23/04,Kiser,M,A,NS,13,475761,4424529
+105,Bear Canyon,Boulder,NL,6/23/04,Kiser,M,A,NS,13,475761,4424529
+106,Bear Canyon,Boulder,NL,6/23/04,Kiser,M,A,NS,13,475761,4424529
+107,Bear Canyon,Boulder,NL,8/4/04,Kiser,F,A,L,13,475761,4424529
+108,Bear Canyon,Boulder,NL,8/4/04,Kiser,F,A,L,13,475761,4424529
+109,Bear Canyon,Boulder,NL,7/12/05,Kiser,F,A,L,13,475761,4424529
+110,Bear Canyon,Boulder,NL,8/6/05,Kiser,F,A,L,13,475761,4424529
+111,Bear Canyon,Boulder,NL,8/6/05,Kiser,F- SA,A,NL,13,475761,4424529
+112,Bear Canyon,Boulder,NL,8/6/05,Kiser,F- SA,A,NL,13,475761,4424529
+113,Bear Canyon,Boulder,NL,8/6/05,Kiser,SA,A,NL,13,475761,4424529
+114,Bear Canyon,Boulder,NL,6/7/06,Kiser,F,A,L,13,475761,4424529
+115,Bear Canyon,Boulder,NL,6/7/06,Kiser,F,A,NR,13,475761,4424529
+116,Bear Canyon,Boulder,NL,6/7/06,Kiser,F,A,P,13,475761,4424529
+117,Bear Canyon,Boulder,NL,6/7/06,Kiser,F,A,P,13,475761,4424529
+118,Bear Canyon,Boulder,NL,6/7/06,Kiser,F,A,P,13,475761,4424529
+119,Bear Canyon,Boulder,NL,7/13/06,Kiser,F,A,NR,13,475761,4424529
+120,Bear Canyon,Boulder,NL,7/13/06,Kiser,M,A,NS,13,475761,4424529
+121,Bear Creek Pond,Boulder,1883,7/14/08,Adams,F,A,NR,13,475761,4424529
+122,Bear Creek Pond,Boulder,1883,7/14/09,Adams,F,A,P,13,475761,4424529
+123,Boulder CO OS Barns,Boulder,,8/10/95,Ingersoll,F,A,L,,,
+124,Boulder Mountain J3,Boulder,2048,9/27/01,Piaggio,M,A,TENL,13,468650,4439680
+125,Buckingham Park Creek,Boulder,1790,7/14/96,Adams,F,A,L,13,473832,4440131
+126,Buckingham Park Creek,Boulder,1790,7/14/96,Adams,F,A,L,13,473832,4440131
+127,Buckingham Park Creek,Boulder,1790,7/14/96,Adams,F,A,L,13,473832,4440131
+128,Buckingham Park Creek,Boulder,1790,7/14/96,Adams,F,A,L,13,473832,4440131
+129,Buckingham Park Creek,Boulder,1790,1996,Adams,F,,,13,473832,4440131
+130,Dakota Ridge,Boulder,,7/31/01,Adams,F,A,L,,,
+131,Der Zerkle,Boulder,2012,,Adams,F,,,13,475448,4424740
+132,Douglas Fir 1,Boulder,,6/17/99,Adams,M,A,NS,,,
+133,Douglas Fir 1,Boulder,,6/17/99,Adams,F,A,P,,,
+134,Douglas Fir 10,Boulder,,8/7/99,Adams,M,A,NS,,,
+135,Douglas Fir 3,Boulder,,8/6/99,Adams,M,A,NS,,,
+136,Douglas Fir 4,Boulder,,8/6/99,Adams,F,A,NLNP,,,
+137,Douglas Fir 5,Boulder,,8/6/99,Adams,M,J,NS,,,
+138,Douglas Fir 6,Boulder,,8/7/99,Adams,F,A,PL,,,
+139,Douglas Fir 7,Boulder,,8/7/99,Adams,F,J,NLNP,,,
+140,Douglas Fir 8,Boulder,,8/7/99,Adams,F,J,NLNP,,,
+141,Douglas Fir 9,Boulder,,8/7/99,Adams,M,A,NS,,,
+142,Eldorado Mtn. Roost,Boulder,2022,,Adams,F,,,13,475860,4417570
+143,Geer Canyon,Boulder,1830,8/12/05,Kiser,F- SA,A,NLNP,13,473970,4443780
+144,Geer Canyon,Boulder,1830,8/15/05,Kiser,F,A,PL,13,473970,4443780
+145,Geer Canyon,Boulder,1830,6/14/07,Adams,F,A,NLNP,13,473970,4443780
+146,Geer Canyon,Boulder,1830,6/14/07,Adams,F,A,NLNP,13,473970,4443780
+147,Geer Canyon,Boulder,1830,6/14/07,Adams,F,A,P,13,473970,4443780
+148,Geer Canyon,Boulder,1830,6/25/07,Adams,M,A,S,13,473970,4443780
+149,Geer Canyon Road,Boulder,1830,8/6/03,Adams,M,J,S,13,473970,4443780
+150,Geer Canyon Road,Boulder,1830,8/6/03,Adams,F,A,L,13,473970,4443780
+151,Geer Canyon roost,Boulder,1875,,Adams,,,,13,473900,4443940
+152,Golden Age CG17,Boulder,2097,6/12/95,BIMP,M,A,UNKN,13,470170,4439900
+153,Good Friday ST-19,Boulder,2504,6/10/97,BIMP,M,A,NONB,13,462126,4431143
+154,Good Friday ST-8,Boulder,2379,8/17/04,BIMP,M,A,NONB,13,462878,4431358
+155,Gregory Canyon Pond,Boulder,1820,7/13/98,Adams,M,A,NS,13,475150,4427620
+156,Gregory Canyon Pond,Boulder,1820,"7/13/19
+98",Adams,F,A,L,13,475150,4427620
+157,Greg. Can Pond,Boulder,1820,7/13/98,Adams,M,A,NS,13,475150,4427620
+158,Gregory Canyon Pond,Boulder,1820,7/13/98,Adams,F,A,NLNP,13,475150,4427620
+159,Gregory Canyon Pond,Boulder,1820,8/5/98,Adams,M,J,NS,13,475150,4427620
+160,Gregory Canyon Pond,Boulder,1820,8/5/98,Adams,F,A,L,13,475150,4427620
+161,Gregory Canyon Pond,Boulder,1820,8/20/98,Adams,F,A,PL,13,475150,4427620
+162,Gregory Canyon Pond,Boulder,1820,8/20/98,Adams,M,J,NS,13,475150,4427620
+163,Gregory Canyon Roost,Boulder,1820,8/6/98,Adams,F,A,UNK,13,475150,4427620
+164,Gregory Canyon,Boulder,1820,6/14/06,Kiser,M,A,NS,13,475150,4427620
+165,Gregory Canyon,Boulder,1820,7/16/06,Kiser,F,A,L,13,475150,4427620
+166,Greg. Canyon,Boulder,1820,6/22/09,Hayes,M,A,NR,13,475150,4427620
+167,Harmon Cave,Boulder,2051,,,F,,,13,475590,4424130
+168,Ingersol Quarry,Boulder,2073,8/31/02,Adams,F,A,L,13,474093,4447142
+169,Ingersol Quarry,Boulder,2073,8/31/02,Adams,F,A,L,13,474093,4447142
+170,Ingersol Quarry,Boulder,2073,8/31/02,Adams,F,A,L,13,474093,4447142
+171,Ingersol Quarry,Boulder,2073,8/31/02,Adams,F,A,L,13,474093,4447142
+172,Ingersol Quarry,Boulder,2073,7/28/03,Adams,M,A,NS,13,474093,4447142
+173,Ingersol Quarry,Boulder,2073,7/28/03,Adams,F,A,L,13,474093,4447142
+174,Ingersol Quarry,Boulder,2073,7/28/03,Adams,M,A,NS,13,474093,4447142
+175,Ingersol Quarry,Boulder,2073,7/10/04,Adams,M,A,NS,13,474093,4447142
+176,Ingersol Quarry,Boulder,2073,7/10/04,Adams,M,A,NS,13,474093,4447142
+177,Ingersol Quarry,Boulder,2073,8/12/04,Adams,F,A,L,13,474093,4447142
+178,Ingersol Quarry,Boulder,2073,8/12/04,Adams,F,A,L,13,474093,4447142
+179,Ingersol Quarry,Boulder,2073,9/11/04,Adams,F,A,PL,13,474093,4447142
+180,Ingersol Quarry,Boulder,2073,7/28/05,Adams,M,A,S,13,474093,4447142
+181,Ingersol Quarry,Boulder,2073,7/28/05,Adams,M,A,NS,13,474093,4447142
+182,Ingersol Quarry,Boulder,2073,7/28/05,Adams,M,A,NS,13,474093,4447142
+183,Ingersol Quarry,Boulder,2073,8/18/05,Adams,M,A,S,13,474093,4447142
+184,Ingersol Quarry,Boulder,2073,8/18/05,Adams,F,A,PL,13,474093,4447142
+185,Ingersol Quarry,Boulder,2073,8/18/05,Adams,F,A,PL,13,474093,4447142
+186,Ingersol Quarry,Boulder,2073,8/18/05,Adams,F,A,PL,13,474093,4447142
+187,Ingersol Quarry,Boulder,2073,9/4/05,Adams,F,J,NLNP,13,474093,4447142
+188,Ingersol Quarry,Boulder,2073,6/24/06,Adams,M,A,NS,13,474093,4447142
+189,Ingersol Quarry,Boulder,2073,6/24/06,Adams,M,A,NS,13,474093,4447142
+190,Ingersol Quarry,Boulder,2073,7/19/06,Adams,F,A,L,13,474093,4447142
+191,Ingersol Quarry,Boulder,2073,7/19/06,Adams,F,A,L,13,474093,4447142
+192,Ingersol Quarry,Boulder,2073,7/19/06,Adams,M,A,NS,13,474093,4447142
+193,Ingersol Quarry,Boulder,2073,7/19/06,Adams,M,A,NS,13,474093,4447142
+194,Ingersol Quarry,Boulder,2073,6/13/07,Adams,F,A,NLNP,13,474093,4447142
+195,Ingersol Quarry,Boulder,2073,6/13/07,Adams,M,A,NS,13,474093,4447142
+196,Ingersol Quarry,Boulder,2073,6/13/07,Adams,M,A,NS,13,474093,4447142
+197,Ingersol Quarry,Boulder,2073,6/26/07,Adams,M,A,S,13,474093,4447142
+198,Ingersol Quarry,Boulder,2073,8/8/07,Adams,M,A,NS,13,474093,4447142
+199,Ingersol Quarry,Boulder,2073,8/8/07,Adams,F,A,PL,13,474093,4447142
+200,Ingersol Quarry,Boulder,2073,8/20/07,Adams,M,A,NS,13,474093,4447142
+201,Ingersol Quarry,Boulder,2073,8/20/07,Adams,M,A,S,13,474093,4447142
+202,Ingersol Quarry,Boulder,2073,9/21/07,Adams,M,A,NS,13,474093,4447142
+203,Ingersol Quarry,Boulder,2073,9/21/07,Adams,M,A,NS,13,474093,4447142
+204,Ingersol Quarry,Boulder,2073,10/4/07,Adams,M,A,S,13,474093,4447142
+205,Ingersol Quarry,Boulder,2073,7/10/08,Adams,F,A,NR,13,474093,4447142
+206,Ingersol Quarry,Boulder,2073,7/17/09,Adams,M,A,NS,13,474093,4447142
+207,Ingersol Quarry,Boulder,2073,7/17/09,Adams,M,A,NS,13,474093,4447142
+208,Ingersol Quarry,Boulder,2073,7/17/09,Adams,M,A,NS,13,474093,4447142
+209,Ingersol Quarry,Boulder,2073,7/17/09,Adams,M,A,NS,13,474093,4447142
+210,Ingersol Quarry,Boulder,2073,7/17/09,Adams,F,A,L,13,474093,4447142
+211,Ingersol Quarry,Boulder,2073,8/12/09,Adams,F,A,L,13,474093,4447142
+212,Ingersol Quarry,Boulder,2073,8/12/09,Adams,M,A,NS,13,474093,4447142
+213,Ingersol Quarry,Boulder,2073,8/12/09,Adams,M,A,NS,13,474093,4447142
+214,Ingersol Quarry,Boulder,2073,8/12/09,Adams,M,A,NS,13,474093,4447142
+215,Ingersol Quarry,Boulder,2073,8/12/09,Adams,M,A,NS,13,474093,4447142
+216,Ingersol Quarry,Boulder,2073,8/12/09,Adams,M,A,NS,13,474093,4447142
+217,Ingersol Quarry,Boulder,2073,7/12/10,Adams,M,A,NS,13,474093,4447142
+218,Ingersol Quarry,Boulder,2073,8/12/10,Adams,F,A,L,13,474093,4447142
+219,Lindsey Pond,Boulder,1784,8/12/09,Adams,M,A,L,13,477887,4419450
+220,Lindsey Pond,Boulder,1784,7/21/96,Adams,F,A,L,13,477887,4419450
+221,Lindsey Pond,Boulder,1784,7/25/99,Adams,F,A,L,13,477887,4419450
+222,Lindsey Pond,Boulder,1784,7/25/99,Adams,F,A,L,13,477887,4419450
+223,Lindsey Pond,Boulder,1784,7/25/99,Adams,F,A,L,13,477887,4419450
+224,Lindsey Pond,Boulder,1784,7/25/99,Adams,F,A,L,13,477887,4419450
+225,Lindsey Pond,Boulder,1784,7/25/99,Adams,F,A,L,13,477887,4419450
+226,Lindsey Pond,Boulder,1784,7/25/99,Adams,F,A,L,13,477887,4419450
+227,Lindsey Pond,Boulder,1784,7/7/04,Kiser,F,A,NR,13,477887,4419450
+228,Lindsey Pond,Boulder,1784,7/2/07,Hayes/Adams,F,A,P,13,477887,4419450
+229,Long Canyon,Boulder,2066,7/11/04,Kiser,F,A,L,13,473740,4426880
+230,Long Canyon,Boulder,2066,7/11/04,Kiser,F,A,L,13,473740,4426880
+231,Long Canyon,Boulder,2066,6/13/06,Kiser,M,A,NS,13,473740,4426880
+232,Long Canyon,Boulder,2066,6/29/06,Kiser,F,A,P,13,473740,4426880
+234,Long Canyon,Boulder,2066,6/29/06,Kiser,M,A,NS,13,473740,4426880
+235,Long Canyon,Boulder,2066,7/28/08,Adams,M,A,NS,13,473740,4426880
+236,Long Canyon,Boulder,2066,7/28/08,Adams,F,A,PL,13,473740,4426880
+237,Long Canyon,Boulder,2066,7/6/09,Adams/Hayes,M,A,NS,13,473740,4426880
+238,Long Canyon Roost,Boulder,2080,,Adams,F,,,13,474900,4427240
+239,Lower Geer,Boulder,1833,7/24/06,Adams,F,A,L,13,474170,4443810
+240,Lower Geer,Boulder,1833,7/24/06,Adams,F,A,L,13,474170,4443810
+241,Lower Geer,Boulder,1833,7/24/06,Adams,F,A,L,13,474170,4443810
+242,Lower Geer,Boulder,1833,7/24/06,Adams,F,A,NLNP,13,474170,4443810
+243,Lower Geer,Boulder,1833,7/24/06,Adams,F,A,L,13,474170,4443810
+244,Lower Geer,Boulder,1833,5/20/07,Adams,F,A,P,13,474170,4443810
+245,Lower Geer Canyon,Boulder,1833,7/29/02,Adams,F,A,L,13,474170,4443810
+246,Lower Geer Canyon,Boulder,1833,7/29/02,Adams,M,A,NS,13,474170,4443810
+247,Lower Geer Canyon,Boulder,1833,7/29/02,Adams,M,A,NS,13,474170,4443810
+248,Lower Geer Canyon,Boulder,1833,8/4/02,Adams,F,A,L,13,474170,4443810
+249,Lower Geer Canyon,Boulder,1833,8/4/02,Adams,F,A,L,13,474170,4443810
+250,Lower Geer Canyon,Boulder,1833,8/4/02,Adams,M,J,NS,13,474170,4443810
+251,Lower Geer Canyon,Boulder,1833,8/4/02,Adams,F,A,PL,13,474170,4443810
+252,Lower Geer Canyon,Boulder,1833,8/4/02,Adams,F,J,NLNP,13,474170,4443810
+253,Lower Geer Canyon,Boulder,1833,8/4/02,Adams,F,J,NLNP,13,474170,4443810
+254,Lower Geer Canyon,Boulder,1833,8/24/04,Adams,F,J,NLNP,13,474170,4443810
+256,Lower Geer Canyon,Boulder,1833,7/13/06,Adams,F,A,L,13,474170,4443810
+257,Lower Geer Canyon,Boulder,1833,7/13/06,Adams,F,A,L,13,474170,4443810
+258,Lower Geer Canyon,Boulder,1833,7/13/26,Adams,F,A,L,13,474170,4443810
+259,Lower Geer Canyon,Boulder,1833,7/13/06,Adams,F,A,L,13,474170,4443810
+260,Lower Geer Canyon,Boulder,1833,7/13/06,Adams,F,A,L,13,474170,4443810
+261,Lower Geer Canyon,Boulder,1833,7/13/06,Adams,F,A,L,13,474170,4443810
+262,Lower Geer Canyon,Boulder,1833,7/13/06,Adams,F,A,L,13,474170,4443810
+263,Lower Geer Canyon,Boulder,1833,7/13/06,Adams,M,A,NS,13,474170,4443810
+264,Lower Geer Canyon,Boulder,1833,7/13/06,Adams,F,A,L,13,474170,4443810
+265,Lower Geer Canyon,Boulder,1833,7/13/06,Adams,F,A,L,13,474170,4443810
+266,Lower Geer Canyon,Boulder,1833,7/13/06,Adams,F,A,L,13,474170,4443810
+267,Lower Geer Canyon,Boulder,1833,7/13/06,Adams,F,A,L,13,474170,4443810
+268,Lower Geer Canyon,Boulder,1833,7/15/06,Adams,F,A,UNK,13,474170,4443810
+269,Lower Geer Canyon,Boulder,1833,7/15/06,Adams,M,A,NS,13,474170,4443810
+270,Lower Geer Canyon,Boulder,1833,7/15/06,Adams,F,A,L,13,474170,4443810
+271,Lower Geer Canyon,Boulder,1833,7/15/06,Adams,F,A,L,13,474170,4443810
+272,Lower Geer Canyon,Boulder,1833,7/15/06,Adams,F,A,NLNP,13,474170,4443810
+273,Lower Geer Canyon,Boulder,1833,7/15/06,Adams,F,A,L,13,474170,4443810
+274,Lower Geer Canyon,Boulder,1833,7/15/06,Adams,F,A,L,13,474170,4443810
+275,Lower Geer Canyon,Boulder,1833,7/15/06,Adams,F,A,NLNP,13,474170,4443810
+276,Lower Geer Canyon,Boulder,1833,7/18/06,Adams,F,A,L,13,474170,4443810
+277,Lower Geer Canyon,Boulder,1833,7/18/06,Adams,M,A,NS,13,474170,4443810
+278,Lower Geer Canyon,Boulder,1833,7/18/06,Adams,F,A,NLNP,13,474170,4443810
+279,Lower Geer Canyon (HVR),Boulder,1833,7/26/06,Hayes,F,A,NR,13,474170,4443810
+280,Lower Geer Canyon (HVR),Boulder,1833,7/26/06,Hayes,F,A,L,13,474170,4443810
+281,Lower Geer Canyon (HVR),Boulder,1833,7/26/06,Hayes,F,A,L,13,474170,4443810
+282,Lower Geer Canyon (HVR),Boulder,1833,8/8/06,Hayes,M,J,,13,474170,4443810
+283,Lower Geer Canyon (HVR),Boulder,1833,8/8/06,Hayes,M,A,NS,13,474170,4443810
+284,Lower Long Canyon,Boulder,1833,6/1/01,Adams,F,A,P,13,473740,4426880
+285,Lower Long Canyon,Boulder,1833,7/27/01,Adams,F,A,PL,13,473740,4426880
+286,Maiden I,Boulder,,7/29/01,Adams,M,A,NS,,,
+287,Maiden I,Boulder,,7/29/01,Adams,M,A,NS,,,
+288,Mallory Cave,Boulder,2083,,Adams,F,,,13,475333,4424705
+289,Middle Geer Canyon,Boulder,1830,8/2/03,Adams,M,J,NS,13,473950,4443790
+290,Middle Geer Canyon,Boulder,1830,8/2/03,Adams,M,J,NS,13,473950,4443790
+291,Middle Geer Canyon,Boulder,1830,8/2/03,Adams,M,J,NS,13,473950,4443790
+292,Middle Geer Canyon,Boulder,1830,8/2/03,Adams,F,J,NLNP,13,473950,4443790
+293,Middle Geer Canyon,Boulder,1830,8/2/03,Adams,F,J,NLNP,13,473950,4443790
+294,Middle Geer Canyon,Boulder,1830,8/13/03,Adams,F,A,L,13,473950,4443790
+295,Middle Geer Canyon,Boulder,1830,8/13/03,Adams,M,J,NS,13,473950,4443790
+296,Middle Geer Canyon,Boulder,1830,8/13/03,Adams,M,J,NS,13,473950,4443790
+297,Middle Geer Canyon,Boulder,1830,8/13/03,Adams,M,J,NS,13,473950,4443790
+298,Middle Geer Canyon,Boulder,1830,8/13/03,Adams,M,J,NS,13,473950,4443790
+299,Middle Geer Canyon,Boulder,1830,6/7/04,Adams/Kiser,F,A,P,13,473950,4443790
+300,Middle Geer Canyon,Boulder,1830,6/7/04,Adams/Kiser,M,A,P,13,473950,4443790
+301,Middle Geer Canyon,Boulder,1830,6/7/04,Adams,F,A,P,13,473950,4443790
+302,Middle Geer Canyon,Boulder,1830,6/7/04,Adams,F,A,P,13,473950,4443790
+303,Middle Geer,Boulder,1830,7/6/04,Adams,F,A,P,13,473950,4443790
+304,Middle Geer Canyon,Boulder,1830,7/8/04,Kiser,F,A,L,13,473950,4443790
+305,Middle Geer Canyon,Boulder,1830,7/9/04,Adams,F,A,L,13,473950,4443790
+306,Middle Geer Canyon,Boulder,1830,7/9/04,Kiser,F,A,L,13,473950,4443790
+307,Middle Geer Canyon,Boulder,1830,8/12/05,Adams,F,J,NLNP,13,473950,4443790
+308,Middle Geer Canyon,Boulder,1830,8/25/05,Kiser,F,SA,NR,13,473950,4443790
+309,Middle Geer Canyon,Boulder,1830,8/12/05,Adams,F,A,PL,13,473950,4443790
+310,Middle Geer Canyon,Boulder,1830,9/13/05,Adams,M,J,NS,13,473950,4443790
+311,Middle Geer Canyon,Boulder,1830,9/13/05,Adams,F,A,NLNP,13,473950,4443790
+312,Mt. Sanitas,Boulder,1896,,Adams,F,,,13,474130,4431370
+313,NE of Mallory Cave,Boulder,2075,6/7/98,Adams,F,A,UNK,13,475448,4424741
+314,NE of Mallory Cave,Boulder,2075,6/22/98,Adams,F,A,UNK,13,475448,4424741
+315,North Eldorado Roost,Boulder,2131,,Adams,F,,,13,475400,4421220
+316,North Shanahan Trail Pond,Boulder,1802,8/14/96,Adams,M,J,NS,13,477518,4423786
+317,North Shanahan Trail Pond,Boulder,1802,7/2/97,Adams,M,A,NS,13,477518,4423786
+318,North Shanahan Trail Pond,Boulder,1802,6/2/98,Adams,F,A,P,13,477518,4423786
+319,North Shanahan Trail Pond,Boulder,1802,7/5/98,Adams,F,A,L,13,477518,4423786
+320,North Shanahan Trail Pond,Boulder,1802,7/5/98,Adams,F,A,L,13,477518,4423786
+321,North Shanahan,Boulder,1802,8/22/98,Adams,M,A,NS,13,477518,4423786
+322,North Shanahan Trail Pond,Boulder,1802,8/22/98,Adams,F,J,NLNP,13,477518,4423786
+323,North Shanahan Trail Pond,Boulder,1802,6/8/99,Adams,M,A,NS,13,477518,4423786
+324,North Shanahan Trail Pond,Boulder,1802,8/13/99,Adams,F,A,L,13,477518,4423786
+325,North Shanahan Trail Pond,Boulder,1802,8/13/99,Adams,M,A,NS,13,477518,4423786
+326,North Shanahan Trail Pond,Boulder,1802,8/13/99,Adams,M,A,S,13,477518,4423786
+327,North Shanahan Trail Pond,Boulder,1802,8/13/99,Adams,F,A,PL,13,477518,4423786
+328,North Shanahan Trail Pond,Boulder,1802,8/13/99,Adams,F,A,L,13,477518,4423786
+329,North Shanahan Trail Pond,Boulder,1802,8/13/99,Adams,F,A,L,13,477518,4423786
+330,North Shanahan,Boulder,1802,8/13/99,Adams,F,J,NLNP,13,477518,4423786
+331,North Shanahan Trail Pond,Boulder,1802,8/13/99,Adams,F,A,L,13,477518,4423786
+332,North Shanahan Trail Pond,Boulder,1802,8/4/08,Adams,M,A,S,13,476896,4423808
+333,North Shanahan Trail Pond,Boulder,1802,8/4/08,Adams,M,A,NS,13,476896,4423808
+334,North Shanahan Trail Pond,Boulder,1802,8/4/08,Adams,M,A,S,13,476896,4423808
+335,North Shanahan Trail Pond,Boulder,1802,8/7/09,Adams,F,A,P,13,476896,4423808
+336,Plumely Canyon (Site 1),Boulder,1913,6/16/03,Adams,F,A,P,13,474040,4445940
+337,Pollywag Pond,Boulder,1772,6/27/95,Adams,M,A,NS,13,477610,4423710
+338,Pollywag Pond,Boulder,1772,6/27/95,Adams,M,A,NS,13,477610,4423710
+339,Quarry 2,Boulder,,6/1/04,Adams,F,A,P,,,
+340,Roadway Waterhole,Boulder,,6/18/05,Adams,F,A,P,,,
+341,Roadway Waterhole (HVR),Boulder,,6/18/05,Adams,F,A,P,,,
+342,Roadway Waterhole (HVR),Boulder,,6/18/05,Adams,F,A,P,,,
+343,Roadway Waterhole (HVR),Boulder,,6/18/05,Adams,F,A,P,,,
+344,Schneider Pond,Boulder,,7/13/96,Adams,M,A,NS,,,
+345,Shadow Canyon,Boulder,1996,5/27/98,Adams,M,A,NS,13,477382,4421239
+346,Shadow Canyon,Boulder,1996,5/27/98,Adams,M,A,NS,13,477382,4421239
+347,Shadow Canyon,Boulder,1996,5/27/98,Adams,M,A,NS,13,477382,4421239
+348,Shadow Canyon,Boulder,1996,5/27/98,Adams,M,A,NS,13,477382,4421239
+349,Shadow Canyon,Boulder,1996,6/11/98,Adams,M,A,NS,13,477382,4421239
+350,Shadow Canyon,Boulder,1996,6/11/98,Adams,M,A,NS,13,477382,4421239
+351,Shadow Canyon,Boulder,1996,7/19/98,Adams,M,A,NS,13,477382,4421239
+352,Shadow Canyon,Boulder,1996,6/18/99,Adams,M,A,NS,13,477382,4421239
+353,Shadow Canyon,Boulder,1996,6/18/99,Adams,M,A,NS,13,477382,4421239
+354,Shadow Canyon,Boulder,1996,6/18/99,Adams,M,A,NS,13,477382,4421239
+355,Shadow Canyon,Boulder,1996,6/18/99,Adams,M,A,NS,13,477382,4421239
+356,Shadow Canyon,Boulder,1996,6/18/99,Adams,M,A,NS,13,477382,4421239
+357,Shadow Canyon,Boulder,1996,6/18/99,Adams,M,A,NS,13,477382,4421239
+358,Shadow Canyon,Boulder,1762,7/20/99,Adams,M,A,I,13,477382,4421239
+359,Shadow Canyon,Boulder,1762,7/1/04,Kiser,M,A,NS,13,477382,4421239
+360,Shadow Canyon,Boulder,1762,7/1/04,Kiser,M,A,NS,13,477382,4421239
+361,Shadow Canyon,Boulder,1762,8/15/04,Kiser,M,A,NS,13,477382,4421239
+362,Shadow Canyon,Boulder,1762,5/19/05,Kiser,M,A,NS,13,477382,4421239
+363,Shadow Canyon,Boulder,1762,5/19/05,Kiser,M,A,NS,13,477382,4421239
+364,Shadow Canyon,Boulder,1762,7/13/05,Kiser,M,A,NS,13,477382,4421239
+365,Shanahan Ridge Pond,Boulder,1798,7/29/95,Adams,M,A,S,13,477638,4423634
+366,Shanahan Ridge Pond,Boulder,1798,7/29/95,Adams,M,A,S,13,477638,4423634
+367,Shanahan Ridge Pond,Boulder,1798,7/29/95,Adams,F,A,L,13,477638,4423634
+368,Shanahan Ridge Pond,Boulder,1798,6/6/96,Adams,M,A,NS,13,477638,4423634
+369,South Shanahan Trail Pond,Boulder,1769,8/19/98,Adams,M,J,NS,13,477638,4423634
+370,South Shanahan Trail Pond,Boulder,1769,8/27/98,Adams,M,J,NS,13,477638,4423634
+371,Stockton Cabin Pool,Boulder,1766,7/12/95,Adams,M,SA,NS,13,477382,4421239
+372,Stockton Cabin Pool,Boulder,1766,7/12/95,Adams,M,A,S,13,477382,4421239
+373,Stockton Cabin Pool,Boulder,1766,7/12/95,Adams,M,A,NS,13,477382,4421239
+374,Stockton Cabin Pool,Boulder,1766,8/12/96,Adams,M,A,A,13,477382,4421239
+375,Stockton Cabin,Boulder,1766,8/12/96,Adams,M,A,S,13,477382,4421239
+376,Stockton Cabin Pool,Boulder,1766,8/12/96,Adams,M,A,S,13,477382,4421239
+377,Stockton Cabin Pool,Boulder,1766,8/12/96,Adams,M,A,S,13,477382,4421239
+378,Stockton Cabin Pool,Boulder,1766,8/12/96,Adams,M,A,S,13,477382,4421239
+379,Stockton Cabin Pool,Boulder,1766,6/11/97,Adams,M,A,NS,13,477382,4421239
+380,Stockton Cabin Pool,Boulder,1766,6/11/97,Adams,M,A,NS,13,477382,4421239
+381,Stockton Cabin Pool,Boulder,1766,6/11/97,Adams,M,A,NS,13,477382,4421239
+382,Stockton Cabin Pool,Boulder,1766,6/19/97,Adams,M,A,NS,13,477382,4421239
+383,Stockton Cabin Pool,Boulder,1766,6/19/97,Adams,M,A,NS,13,477382,4421239
+384,Stockton Cabin,Boulder,1766,6/30/97,Adams,M,A,NS,13,477382,4421239
+385,Stockton Cabin Pool,Boulder,1766,8/1/97,Adams,M,A,NS,13,477382,4421239
+386,Stockton Cabin Pool,Boulder,1766,8/1/97,Adams,M,A,S,13,477382,4421239
+387,Stockton Cabin Pool,Boulder,1766,8/1/97,Adams,M,A,S,13,477382,4421239
+388,Stockton Cabin Pool,Boulder,1766,8/1/97,Adams,M,A,S,13,477382,4421239
+389,Stockton Cabin Pool,Boulder,1766,8/1/97,Adams,M,A,S,13,477382,4421239
+390,Stockton Cabin Pool,Boulder,1766,8/1/97,Adams,M,A,S,13,477382,4421239
+391,Stockton Cabin Pool,Boulder,1766,8/1/97,Adams,M,A,S,13,477382,4421239
+392,Stockton Cabin Pool,Boulder,1766,8/1/97,Adams,M,A,S,13,477382,4421239
+393,Stockton Cabin,Boulder,1766,8/14/97,Adams,M,A,NS,13,477382,4421239
+394,Stockton Cabin Pool,Boulder,1766,8/22/97,Adams,M,A,S,13,477382,4421239
+395,Stockton Cabin Pool,Boulder,1766,8/22/97,Adams,M,J,NS,13,477382,4421239
+396,Stockton Cabin Pool,Boulder,1766,7/28/01,Adams,M,A,NS,13,477382,4421239
+397,Stockton Cabin Pool,Boulder,1766,7/28/01,Adams,M,A,NS,13,477382,4421239
+398,Stockton Cabin Pool,Boulder,1766,7/28/01,Adams,M,A,NS,13,477382,4421239
+399,Stockton Cabin Pool,Boulder,1766,7/28/01,Adams,M,A,NS,13,477382,4421239
+400,"Tank 1, HVR",Boulder,,6/22/03,Adams,M,A,NS,13,474490,4447490
+401,"Tank 2, HVR",Boulder,,7/1/03,Adams,M,A,NS,13,474240,4447630
+402,"Tank 2, HVR",Boulder,,7/1/03,Adams,F,A,P,13,474240,4447630
+403,Thinned 3,Boulder,,7/29/04,Adams,F,A,L,,,
+404,Thinned 3,Boulder,,7/29/04,Adams,M,A,NS,,,
+405,Tucker B1,Boulder,2316,9/19/00,BIMP,M,J,NONB,13,465041,4428043
+406,Tucker L2,Boulder,1768,6/24/00,BIMP,F,A,NONB,13,473988,4453563
+407,Tucker L2,Boulder,1768,6/24/00,BIMP,F,A,LACT,13,473988,4453563
+408,Tucker L2,Boulder,1768,6/24/00,BIMP,F,A,LACT,13,473988,4453563
+409,Tucker L2,Boulder,1768,6/24/00,BIMP,F,A,LACT,13,473988,4453563
+410,Tucker L2,Boulder,1768,9/16/00,BIMP,F,A,POST,13,473988,4453563
+411,Tucker L2,Boulder,1768,9/16/00,BIMP,F,A,PREG,13,473988,4453563
+412,Tucker mine L2,Boulder,1768,6/24/00,BIMP,F,A,NONB,13,473988,4453563
+413,Tucker mine L2,Boulder,1768,6/24/00,BIMP,F,A,L,13,473988,4453563
+414,Tucker mine L2,Boulder,1768,6/24/00,BIMP,F,A,L,13,473988,4453563
+415,Tucker mine L2,Boulder,1768,6/24/00,BIMP,F,A,L,13,473988,4453563
+416,Tucker mine L2,Boulder,1768,9/16/00,BIMP,F,A,PL,13,473988,4453563
+417,Tucker mine L2,Boulder,1768,9/16/00,BIMP,F,A,PL,13,473988,4453563
+418,Upper Geer,Boulder,1826,8/8/06,Adams,M,A,NS,13,473460,4443790
+419,Upper Geer,Boulder,1826,8/8/06,Adams,M,J,NS,13,473460,4443790
+420,Upper Geer Canyon,Boulder,1826,6/27/02,Adams,F,A,L,13,473460,4443790
+421,Upper Geer Canyon,Boulder,1826,6/27/02,Adams,M,A,NS,13,473460,4443790
+422,Upper Geer Canyon,Boulder,1826,7/5/02,Adams,M,A,NS,13,473460,4443790
+423,Upper Geer Canyon,Boulder,1826,7/30/02,Adams,F,J,NLNP,13,473460,4443790
+424,Upper Geer Canyon,Boulder,1826,7/13/03,Adams,F,A,L,13,473460,4443790
+425,Upper Geer Canyon,Boulder,1826,7/1/09,Hayes,M,A,NR,13,473460,4443790
+426,Upper Gregory Canyon,Boulder,1826,6/5/01,Adams,F,A,P,13,473460,4443790
+427,Gregory Can.,Boulder,1820,6/22/09,Hayes,M,A,NR,13T,474856,4427333
+428,Gregory Canyon (Boulder OSMP),Boulder,1820,6/22/09,Hayes,M,A,NR,13T,474856,4427333
+429,"Heil Valley Ranch, Lower Geer Canyon",Boulder,1832,6/16/09,Hayes,M,A,NR,13T,473962,4443775
+430,"Heil Valley Ranch, Upper Geer Canyon",Boulder,1826,7/1/09,Hayes,M,A,NR,13T,473170,4443935
+431,Chicago Creek 236,Clear Creek,2420,6/16/01,BIMP,M,A,NONB,13,453846,4398332
+432,Red Elephant 17,Clear Creek,2755,9/19/04,BIMP,M,A,TENL,13,446357,4402541
+433,Dutch Flat 126,Custer,2569,7/25/03,BIMP,M,A,NONB,13,489402,4219795
+434,Robinson118,Custer,2788,8/25/01,BIMP,M,A,NONB,13,469294,4218289
+435,Junction Pond USFS,Dolores,,7/16/05,BIMP,M,A,,12,690093,4197520
+436,North Pines,Dolores,2345,8/19/06,Hayes,F,A,PL,,,
+437,North Pines,Dolores,2345,8/19/06,Hayes,F,A,PL,,,
+438,,El Paso,,,DMNS,F,,,,,
+439,"6 mi. N, 1 mi. W Colorado Springs",El Paso,,,"Barbour and Davis, 1969",,,,,,
+440,5 Sisters 6,Fremont,1764,9/27/04,BIMP,M,A,TENL,13,484049,4244539
+441,5 Sisters 6,Fremont,1764,9/27/04,BIMP,M,A,TENL,13,484049,4244539
+442,Grape Creek GC-4,Fremont,1857,5/20/06,BIMP,F,A,UNKN,13,471162,4249075
+443,Sunset City roost,Fremont,2214,7/23/07,Hayes,F,A,LACT,13,460321,4248898
+444,Sunset City 2,Fremont,2214,5/28/09,Hayes,F,A,UNK,13,460321,4248898
+445,Sunset City 2,Fremont,2214,5/28/09,Hayes,F,A,UNK,13,460321,4248898
+446,Sunset City 2,Fremont,2214,5/28/09,Hayes,F,A,UNK,13,460321,4248898
+447,Sunset City 2,Fremont,2210,7/28/05,BIMP,F,A,LACT,13,460320,4248900
+448,Sunset City 2,Fremont,2210,7/28/05,BIMP,F,A,LACT,13,460320,4248900
+449,Sunset City 2,Fremont,2210,7/28/05,BIMP,F,A,LACT,13,460320,4248900
+450,Sunset City 2,Fremont,2210,7/28/05,BIMP,F,A,LACT,13,460320,4248900
+451,Sunset City 2,Fremont,2210,7/28/05,BIMP,F,A,LACT,13,460320,4248900
+452,Sunset City 2,Fremont,2210,7/28/05,BIMP,F,A,LACT,13,460320,4248900
+453,Sunset City 2,Fremont,2210,7/28/05,BIMP,F,A,LACT,13,460320,4248900
+454,Sunset City 2,Fremont,2210,7/8/05,BIMP,F,A,UNKN,13,460320,4248900
+455,Sunset City 2,Fremont,2210,7/8/05,BIMP,U,U,UNKN,13,460320,4248900
+456,Sunset City 2,Fremont,2210,7/8/05,BIMP,F,U,UNKN,13,460320,4248900
+457,Sunset City 2,Fremont,2210,7/8/05,BIMP,F,U,UNKN,13,460320,4248900
+458,Sunset City 2,Fremont,2210,7/8/05,BIMP,F,U,UNKN,13,460320,4248900
+459,Sunset City 2,Fremont,2210,7/8/05,BIMP,F,A,UNKN,13,460320,4248900
+460,Sunset City 2,Fremont,2210,7/8/05,BIMP,F,A,UNKN,13,460320,4248900
+461,Sunset City 2,Fremont,2210,7/8/05,BIMP,F,A,UNKN,13,460320,4248900
+462,Sunset City 2,Fremont,2210,7/8/05,BIMP,F,A,UNKN,13,460320,4248900
+463,New Castle,Garfield,,,,,,,,,
+464,Jeffco BC-1,Jefferson,1885,5/17/05,BIMP,F,A,PREG,13,482144,4389173
+465,Jeffco JCOS -4,Jefferson,1902,8/26/93,BIMP,M,J,UNKN,13,486540,4376840
+466,DRG Burnwell 1,La Plata,2271,8/23/93,BIMP,F,A,NONB,12,757400,4127190
+467,DRG Old Peacock East,La Plata,2347,6/18/92,Freeman,F,A,NONB,12,758100,4127540
+468,DRG Old Peacock East,La Plata,2347,8/31/94,BIMP,F,A,POST,12,758100,4127540
+469,DRG Old Peacock East,La Plata,2347,8/31/94,BIMP,M,U,NONB,12,758100,4127540
+470,DRG Old Peacock East,La Plata,2347,7/31/00,BIMP,M,A,NONB,12,758100,4127540
+471,Peacock West,La Plata,2347,8/21/91,BIMP,M,A,TENL,12,758090,4127540
+472,DRG Old Peacock West,La Plata,2347,8/02/92,Freeman,M,A,NONB,12,758090,4127540
+473,"Peacock Mine, sec. 29, T35N, R11W",La Plata,,,"Freeman and Adams, 1992",,,,,,
+474,"1.5 mi. S., 5.6
+mi. W Livermore, SE 1/4 sec. 5, T9N R71W",Larimer,2012,8/30/81,Riddle & Svoboda,F,,,13,469852,4513102
+475,2939 N County Road 31-D,Larimer,1615,,Armstrong,,,,,,
+476,"Cow Camp, Sylvan Dale Guest Ranch, Cedar Creek",Larimer,1890,,Armstrong,,,,,,
+477,Dutch George,Larimer,1982,9/23/04,USGS,M,A,Not,13t,462332,4504965
+478,Gateway Confluence,Larimer,1660,9/4/03,USGS,F,A,Post,13t,479612,4505680
+479,Gateway Mountain Park,Larimer,1641,9/4/04,USGS,F,A,,,,
+480,Hewlett Gulch Pond,Larimer,1830,7/4/06,Hayes,M,A,,13,473610,4506490
+481,Hewlett Gulch Pond,Larimer,1830,8/10/06,Hayes,M,A,,13,473610,4506490
+482,Hewlett Gulch Pond,Larimer,1830,8/10/06,Hayes,F,A,NR,13,473610,4506490
+483,Hewlett Gulch Pool,Larimer,1830,8/11/08,Hayes,F,A,L,13T,473588,4506512
+484,Hewlett Gulch Pool,Larimer,1830,8/11/08,Hayes,M,A,NR,13T,473588,4506512
+485,"Hewlett Gulch, Sara's Crossing",Larimer,1778,6/27/08,Hayes,M,A,NR,13T,473403,4505318
+486,"Hewlett Gulch, Sara's Crossing",Larimer,1778,6/27/08,Hayes,F,A,L,13T,470650,4503880
+487,Sara's Crossing,Larimer,1778,7/27/08,Hayes,F,A,L,13T,473403,4505318
+488,"Hewlett Gulch, Sara's Crossing",Larimer,1778,7/27/08,Hayes,F,A,L,13T,473403,4505318
+489,"Hewlett Gulch, Sara's Crossing",Larimer,1778,7/27/08,Hayes,F,A,L,13T,473403,4505318
+490,Manhattan SM19,Larimer,2304,8/29/98,BIMP,M,A,NONB,13,449010,4504400
+491,Manhattan SM19,Larimer,2304,8/29/98,BIMP,M,A,TENL,13,449010,4504400
+492,Manhattan SP1,Larimer,1864,7/14/01,BIMP,M,A,NONB,13,467646,4503550
+493,"mouth of Sulzer Gulch, T5N, R71W, sec. 3,
+5280'",Larimer,1609,9/3/90,Armstrong,M,,,13,482161,4474709
+494,Old Flowers Pond,Larimer,2632,7/17/03,USGS,F,A,Not,13t,457748,4496615
+495,Old Flowers Pond,Larimer,2632,7/17/03,USGS,M,A,Scro,13t,457748,4496615
+496,Pamige Ranch Pond,Larimer,2129,9/9/04,USGS,M,J,Not,13t,468415,4500434
+497,"Phantom Canyon, North Fork Poudre River",Larimer,1920,,Armstrong,,,,13,475100,4521600
+498,Picnic Rock,Larimer,1598,8/5/03,USGS,F,A,Lact,13t,480553,4502405
+499,Picnic Rock,Larimer,1598,8/5/03,USGS,F,A,Lact,13t,480553,4502405
+500,Picnic Rock,Larimer,1598,8/5/03,USGS,M,A,Not,13t,480553,4502405
+501,Picnic Rock,Larimer,1598,9/1/03,USGS,M,J,Not,13t,480553,4502405
+502,Redstone Pool,Larimer,1816,8/20/07,USGS,F,A,PL,13,480877,4490339
+503,Redstone Pool,Larimer,1816,8/20/07,USGS,F,A,PL,13,480877,4490339
+504,Redstone Pool,Larimer,1816,8/20/07,USGS,F,A,PL,13,480877,4490339
+505,Redstone Pool,Larimer,1816,8/20/07,USGS,F,A,PL,13,480877,4490339
+506,Redstone Pool,Larimer,1816,8/20/07,USGS,F,A,PL,13,480877,4490339
+507,Redstone Pool,Larimer,1816,8/20/07,USGS,M,A,,13,480877,4490339
+508,Redstone Pool,Larimer,1816,8/20/07,USGS,M,J,,13,480877,4490339
+509,Redstone Pool,Larimer,1816,8/20/07,USGS,M,J,,13,480877,4490339
+510,Redstone Pool,Larimer,1816,8/20/07,USGS,M,J,,13,480877,4490339
+511,RFRD A100,Larimer,2402,9/24/94,BIMP,M,A,TENL,13,449400,4507350
+512,Sara's Crossing (Hewlett Gulch),Larimer,6000,6/30/06,Hayes,F,A,L,13,473452,4505086
+513,Sara's Crossing (Hewlett Gulch),Larimer,6000,6/30/06,Hayes,F,A,L,13,473452,4505086
+514,Sara's Crossing (Hewlett Gulch),Larimer,6000,6/30/06,Hayes,F,A,L,13,473452,4505086
+515,"Sylvan Dale Ranch, 6.5 mi W Loveland",Larimer,1609,5/22/93,Armstrong,F,,,13,481626,4475514
+516,Triolos Ponds,Larimer,,8/6/03,USGS,M,A,Scro,13t,474021,4499619
+517,Young's Gulch,Larimer,1782,7/18/08,Hayes,F,A,PL,13T,473403,4505318
+518,Young's gulch,Larimer,1797,6/30/09,Hayes,M,A,NS,13T,470681,4503932
+519,"4 mi. S, 3 3/4 mi. W Gulnare",Las Animas,,,"J. R. Choate, pers. comm.",,,,,,
+520,"Burro Canyon, T32S R66W,
+Sec 18",Las Animas,2316,8/15/81,Finley & Riddle,F,,,,,
+521,junction Plum and Chacuacu (sp. Chacuacu) creeks,Las Animas,1524,7/22/77,,M,,,13,621420,4150930
+522,Wooten,Las Animas,2308,6/16/68,Findley,F,,,,,
+523,Amethyst Queen 9,Mesa,1987,8/25/95,BIMP,M,A,NONB,12,711970,4301590
+524,Calamity FP2,Mesa,1963,7/30/97,BIMP,F,A,LACT,12,687845,4275583
+525,Dominguez,Mesa,1463,,Allard,F,,,12,722590,4464610
+526,"Dominguez Recreation Site, ca. 3 mi (by rd) NW
+Dominguez Recreation Site",Mesa,1463,,Valdez,F,,,12,722590,4464610
+527,Little Dolores Canyon,Mesa,,6/24/98,BIMP,M,A,NB,13,150634,4325722
+528,Lumsden 87 Mag.,Mesa,2073,10/3/00,BIMP,M,J,NONB,12,671640,4279190
+529,Outlaw Mesa Dixie 2,Mesa,1890,9/22/98,BIMP,M,A,TENL,12,687205,4275697
+530,Outlaw Mesa 30,Mesa,2036,6/4/97,BIMP,M,A,NONB,12,689523,4276110
+531,Outlaw Mesa,Mesa,2006,6/25/97,BIMP,F,A,UNKN,12,686972,4276190
+532,Outlaw Mesa A2,Mesa,1993,6/5/97,BIMP,F,A,PREG,12,686684,4276420
+533,Outlaw Mesa,Mesa,2006,6/6/97,BIMP,F,A,PREG,12,686439,4276708
+534,Outlaw Mesa 59,Mesa,2006,6/6/97,BIMP,F,A,PREG,12,686439,4276708
+535,Outlaw Mesa 59,Mesa,2006,6/6/97,BIMP,F,A,PREG,12,686439,4276708
+536,Outlaw Mesa 60,Mesa,2006,6/6/97,BIMP,F,A,PREG,12,686374,4276722
+537,Outlaw Mesa 60,Mesa,2006,6/6/97,BIMP,F,A,PREG,12,686374,4276722
+538,Outlaw Mesa 61 D2,Mesa,1951,9/22/98,BIMP,F,A,NONB,12,686435,4277097
+539,Outlaw Mesa 64D1,Mesa,2006,6/6/97,BIMP,F,A,PREG,12,686226,4276840
+540,Outlaw Mesa 64D1,Mesa,2006,6/697,BIMP,F,A,PREG,12,686226,4276840
+541,Outlaw Mesa 64D3,Mesa,2006,6/6/97,BIMP,F,A,PREG,12,686257,4276907
+542,Outlaw 64D3,Mesa,2006,9/20/97,BIMP,F,A,NONB,12,686257,4276907
+543,Outlaw Mesa 65,Mesa,1999,6/19/97,BIMP,F,A,PREG,12,686005,4276955
+544,Outlaw Mesa 65,Mesa,1999,9/20/97,BIMP,U,U,UNKN,12,686005,4276955
+545,Outlaw Mesa 66D1,Mesa,1993,10/1/97,BIMP,M,A,NONB,12,685593,4276271
+546,Outlaw Mesa 73A1,Mesa,1993,9/27/98,BIMP,F,A,NONB,12,687355,4273080
+547,Tenderfoot Mesa 14B,Mesa,2006,8/1/97,BIMP,M,A,NONB,12,687355,4273080
+548,Tenderfoot Mesa 15A,Mesa,1981,10/3/95,BIMP,M,A,NONB,12,681200,4277900
+549,Tenderfoot Mesa 3,Mesa,2042,6/24/95,BIMP,M,A,NONB,12,680720,4281720
+550,Tenderfoot Mesa 6A,Mesa,2042,8/3/97,BIMP,F,J,NONB,,,
+551,Ute Canyon,Mesa,1402,,Adams,,,,,,
+552,"Ute Canyon, T12S R2W",Mesa,1402,,,,,,,,
+553,"West Creek, 4 mi. NE Gateway, T15S R103W",Mesa,,,Freeman,,,,,,
+554,About 1.1 mi N of Massey Cabin,Moffat,,7/13/90,Bogan,M,,,,,
+555,"Elk Springs, 5 mi. SE of Elk Springs, T5N R98W",Moffat,1890,9/12/81,Freeman,M,,,,,
+556,"Elk Springs, 5 mi. SE of Elk Springs, T5N R98W",Moffat,1890,,,,,,,,
+557,"Green River, Dinosaur NM",Moffat,,,BIMP,,,,,,
+558,"Holland Draw, 6 mi SW Greystone, T7N R101W",Moffat,,7/2/79,,F,,,12,688024,4493876
+559,"Holland Draw, 6 mi SW Greystone, T7N R101W",Moffat,,7/2/79,,F,,L,12,688024,4493876
+560,"Holland Draw, 6 mi SW Greystone, T7N R101W",Moffat,,7/2/79,,F,,NL,12,688024,4493876
+561,"Pool creek ranch, Dinosaur National Monument",Moffat,1551,8/12/88,Fisher,F,,,,,
+562,"Pool creek ranch, Dinosaur National Monument",Moffat,1551,6/20/89,Bogan,F,,,,,
+563,"Pool creek ranch, Dinosaur National Monument",Moffat,1551,6/20/89,Bogan,F,,,,,
+564,"Pot Creek, Dinosaur National Monument",Moffat,,7/17/90,BIMP,M,M,,13,166701,4505267
+565,"Pot Creek, Dinosaur National Monument",Moffat,,7/17/90,BIMP,M,J,,13,166701,4505267
+566,"right bank Yampa River, river mile 24, Big Joe Campground",Moffat,1615,7/20/82,Bogan,F,,,,,
+567,"0.1 mi. jct Spruce Canyon
+& Spruce Tree",Montezuma,1914,8/29/92,Bogan,M,,,,,
+568,"1 mi SSE Rock Springs, Mesa Verde National Park",Montezuma,,8/2/91,Bogan,F,,,,,
+569,"1 mi SSE Rock Springs, Mesa Verde National Park",Montezuma,,8/2/91,Valdez,M,,,,,
+570,"1 mi SSE Rock Springs, Mesa Verde National Park",Montezuma,,8/2/91,Valdez,F,,,,,
+571,"1 mi SSE Rock Springs, Mesa Verde National Park",Montezuma,,8/2/91,Valdez,F,,,,,
+572,"1 mi SSE Rock Springs, Mesa Verde National Park",Montezuma,,8/2/91,Valdez,F,,,,,
+573,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2006,O'Shea et al. 2011,F,,,,,
+574,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2006,O'Shea et al. 2011,F,,,,,
+575,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2006,O'Shea et al. 2011,F,,,,,
+576,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2006,O'Shea et al. 2011,F,,,,,
+577,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2006,O'Shea et al. 2011,M,,,,,
+578,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2006,O'Shea et al. 2011,M,,,,,
+579,Mesa Verde,Montezuma,"<2,165",2006,O'Shea et al.,M,,,,,
+580,"Mesa Verde Park ""Higher Sites""",Montezuma,">2,311",2006,O'Shea et al. 2011,F,,,,,
+581,"Mesa Verde Park ""Higher Sites""",Montezuma,">2,311",2006,O'Shea et al. 2011,F,,,,,
+582,"Mesa Verde Park ""Higher Sites""",Montezuma,">2,311",2006,O'Shea et al. 2011,F,,,,,
+583,"Mesa Verde Park ""Higher Sites""",Montezuma,">2,311",2006,O'Shea et al. 2011,M,,,,,
+584,"Mesa Verde Park ""Higher Sites""",Montezuma,">2,311",2006,O'Shea et al. 2011,M,,,,,
+585,"Mesa Verde Park ""Higher Sites""",Montezuma,">2,311",2006,O'Shea et al. 2011,M,,,,,
+586,Mesa Verde,Montezuma,">2,311",2006,O'Shea et al.,M,,,,,
+587,"Mesa Verde Park ""Higher Sites""",Montezuma,">2,311",2006,O'Shea et al. 2011,M,,,,,
+588,"Mesa Verde Park ""Higher Sites""",Montezuma,">2,311",2006,O'Shea et al. 2011,M,,,,,
+589,"Mesa Verde Park ""Higher Sites""",Montezuma,">2,311",2006,O'Shea et al. 2011,M,,,,,
+590,"Mesa Verde Park ""Higher Sites""",Montezuma,">2,311",2006,O'Shea et al. 2011,M,,,,,
+591,"Mesa Verde Park ""Higher Sites""",Montezuma,">2,311",2006,O'Shea et al. 2011,M,,,,,
+592,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,F,,,,,
+593,Mesa Verde,Montezuma,"<2,165",2007,O'Shea et al.,F,,,,,
+594,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,F,,,,,
+595,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,F,,,,,
+596,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,F,,,,,
+597,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,F,,,,,
+598,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,F,,,,,
+599,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,F,,,,,
+600,Mesa Verde,Montezuma,"<2,165",2007,O'Shea et al.,F,,,,,
+601,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,F,,,,,
+602,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,F,,,,,
+603,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,F,,,,,
+604,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,F,,,,,
+605,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,F,,,,,
+606,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,M,,,,,
+607,Mesa Verde,Montezuma,"<2,165",2007,O'Shea et al.,M,,,,,
+608,"Mesa Verde Park ""Lower Sites""",Montezuma,"<2,165",2007,O'Shea et al. 2011,M,,,,,
+609,Center,Montezuma,,8/20/00,BIMP,F,A,PL,13,189799,4128973
+610,"Lower Morfield Canyon, Mesa Verde National Park",Montezuma,,8/3/89,Ramotnik,M,,,,,
+611,"Lower Morfield Canyon, Mesa Verde National Park",Montezuma,,8/4/89,Ramotnik,F,,,,,
+612,Mesa Verde NP,Montezuma,,"1989-
+1994",Chung- MacCaubry and Bogan,F,A,,,,
+613,Mesa Verde NP,Montezuma,,"1989-
+1994",Chung- MacCaubry and Bogan,F,A,,,,
+614,Mesa Verde NP,Montezuma,,Same,Same,F,A,,,,
+615,Mesa Verde NP,Montezuma,,"1989-
+1994",Chung- MacCaubry and Bogan,F,A,,,,
+616,Mesa Verde NP,Montezuma,,"1989-
+1994",Chung- MacCaubry and Bogan,F,A,,,,
+617,Mesa Verde NP,Montezuma,,"1989-
+1994",Chung- MacCaubry and Bogan,F,A,,,,
+618,Mesa Verde NP,Montezuma,,"1989-
+1994",Chung- MacCaubry and Bogan,M,?,,,,
+619,Mesa Verde NP,Montezuma,,"1989-
+1994",Chung- MacCaubry and Bogan,M,?,,,,
+620,Mesa Verde NP,Montezuma,,,Chung-Mac.,M,?,,,,
+621,Mesa Verde NP,Montezuma,,"1989-
+1994",USGS,,,,,,
+622,"Rock Springs, Mesa Verde National Park",Montezuma,2256,8/23/56,S. Anderson,F,A,,,,
+623,"Rock Springs, Mesa Verde National Park",Montezuma,2256,8/3/91,Bogan,F,,,,,
+624,Cashin Mine W1,Montrose,,8/5/02,BIMP,M,J,NB,13,154600,4247498
+625,Cashin Mine W2 Ladder,Montrose,,7/31/98,BIMP,F,A,L,13,154583,4247472
+626,Cashin Mine W2 Ladder,Montrose,,7/31/98,BIMP,M,A,NB,13,154583,4247472
+627,EAST BULL CANYON 580A1,Montrose,,9/8/04,BIMP,F,A,POST,,,
+628,Grizzly Gulch,Montrose,,,,,,,,,
+629,GYPSUM 451A1,Montrose,1739,7/7/02,BIMP,F,A,LACT,12,678225,4227297
+630,GYPSUM 455A1,Montrose,1757,9/23/02,BIMP,M,A,TENL,12,678381,4227642
+631,GYPSUM 465A1,Montrose,1701,9/10/96,BIMP,F,J,NONB,12,679458,4226446
+632,GYPSUM 469A1,Montrose,1654,9/27/03,BIMP,F,A,POST,12,678359,4230103
+633,GYPSUM 469A1,Montrose,1654,9/27/03,BIMP,F,A,POST,12,678359,4230103
+634,HIEROGLYPH IC 1547,Montrose,1674,9/12/03,BIMP,M,A,NONB,12,699119,4246624
+635,HIEROGLYPH IC 1553A1,Montrose,1652,6/8/05,BIMP,F,A,LACT,12,697322,4247664
+636,HIEROGLYPH IC 1555,Montrose,1667,6/8/05,BIMP,F,A,LACT,12,697051,4247477
+637,Irwin Field,Montrose,1512,7/11/96,BIMP,M,A,NB,12,160832,4247976
+638,LA SAL CREEK # 2,Montrose,,7/25/97,BIMP,F,A,L,12,154621,4247520
+639,PARADOX 1288A1,Montrose,1851,9/16/01,BIMP,F,A,POST,12,700974,4237706
+640,PARADOX 1290A1,Montrose,1932,7/11/96,BIMP,M,A,NONB,12,699077,4239460
+641,PARADOX 1290A1,Montrose,1932,7/12/96,BIMP,F,A,NONB,12,699077,4239460
+642,PARADOX 1290A1,Montrose,1932,9/4/96,BIMP,F,J,NONB,12,699077,4239460
+643,PARADOX 1291A1,Montrose,1945,9/4/96,BIMP,M,A,TENL,12,699422,4239221
+644,PARADOX 1292A1,Montrose,1958,9/14/01,BIMP,F,J,NONB,12,699406,4239225
+645,PARADOX 1292A1,Montrose,1958,9/14/01,BIMP,F,A,POST,12,699406,4239225
+646,PARADOX 1292A1,Montrose,1958,9/14/01,BIMP,M,J,NONB,12,699406,4239225
+647,PARADOX,Montrose,1958,9/14/01,BIMP,F,A,POST,12,699406,4239225
+648,PARADOX 1292A1,Montrose,1958,9/14/01,BIMP,F,A,POST,12,699406,4239225
+649,PARADOX 1292A1,Montrose,1958,9/14/01,BIMP,F,J,NONB,12,699406,4239225
+650,PARADOX 1293A1,Montrose,1962,9/1/01,BIMP,F,A,POST,12,699362,4239165
+651,PARADOX 1293A2,Montrose,1962,9/1/01,BIMP,F,A,POST,12,699362,4239165
+652,PARADOX 278X,Montrose,2002,9/13/01,BIMP,F,A,POST,12,697052,4240671
+653,PARADOX 278X,Montrose,2002,9/13/01,BIMP,F,A,POST,12,697052,4240671
+654,PARADOX 278X,Montrose,2002,9/13/01,BIMP,F,A,POST,12,697052,4240671
+655,PARADOX 278X,Montrose,2002,9/13/01,BIMP,F,A,POST,12,697052,4240671
+656,PARADOX,Montrose,2002,9/13/01,BIMP,M,J,NONB,12,697052,4240671
+657,PARADOX 278X,Montrose,2002,9/13/01,BIMP,F,J,NONB,12,697052,4240671
+658,PARADOX 278X,Montrose,2002,9/13/01,BIMP,U,U,UNKN,12,697052,4240671
+659,PARADOX 278X,Montrose,2002,6/22/02,BIMP,F,A,LACT,12,697052,4240671
+660,PARADOX 278X,Montrose,2002,6/22/02,BIMP,F,A,LACT,12,697052,4240671
+661,PARADOX 278X,Montrose,2002,6/22/02,BIMP,F,A,LACT,12,697052,4240671
+662,PARADOX 278X,Montrose,2002,6/22/02,BIMP,F,A,LACT,12,697052,4240671
+663,PARADOX 278X,Montrose,2002,6/22/02,BIMP,F,A,LACT,12,697052,4240671
+664,PARADOX 278X,Montrose,2002,6/22/02,BIMP,M,A,NONB,12,697052,4240671
+665,PARADOX,Montrose,2002,6/22/02,BIMP,F,A,LACT,12,697052,4240671
+666,PARADOX 278X,Montrose,2002,6/22/02,BIMP,F,A,LACT,12,697052,4240671
+667,PARADOX 278X,Montrose,2002,6/22/02,BIMP,F,A,LACT,12,697052,4240671
+668,PARADOX 278X,Montrose,2002,6/22/02,BIMP,F,A,LACT,12,697052,4240671
+669,PARADOX 278X,Montrose,2002,6/22/02,BIMP,F,A,NONB,12,697052,4240671
+670,Paradox Canyon,Montrose,1512,7/10/96,BIMP,M,A,NB,13,165857,4252574
+671,Redd Pond,Montrose,1527,8/23/01,BIMP,F,A,PL,13,161268,4250034
+672,SPUD PATCH 1500A1,Montrose,1644,"10/11/9
+6",BIMP,M,A,TENL,12,698100,4249650
+673,TRAMP 524,Montrose,,7/6/02,BIMP,M,A,NONB,12,695305,4243570
+674,TRAMP 524,Montrose,,9/10/02,BIMP,M,A,NONB,12,695305,4243570
+675,TRAMP 527,Montrose,1948,7/6/02,BIMP,F,A,LACT,12,695305,4243570
+676,TRAMP 527,Montrose,1948,7/6/02,BIMP,M,A,NONB,12,695305,4243570
+677,Umetco Teapot Dome,Montrose,1896,9/3/93,BIMP,F,J,NONB,12,693060,4228420
+678,WEST MONTROSE 2,Montrose,1622,9/24/99,BIMP,F,A,POST,12,689330,4254060
+679,WEST MONTROSE 2,Montrose,1622,9/24/99,BIMP,U,U,UNKN,12,689330,4254060
+680,WEST MONTROSE 2,Montrose,1622,9/24/99,BIMP,U,U,UNKN,12,689330,4254060
+681,WEST MONTROSE 67,Montrose,1847,9/25/99,BIMP,M,A,TENL,12,686890,4252530
+682,WEST MONTROSE 67,Montrose,1847,9/25/99,BIMP,U,U,UNKN,12,686890,4252530
+683,WEST MONTROSE 68,Montrose,1914,5/31/99,BIMP,F,A,UNKN,12,686360,4252720
+684,WEST MONTROSE 69,Montrose,1914,5/31/99,BIMP,U,U,UNKN,12,686380,4252720
+685,WEST MONTROSE 69,Montrose,1914,5/31/99,BIMP,U,U,UNKN,12,686380,4252720
+686,Wiggins Copper Mine,"Oklahoma, New Mexico, Colorado tri- state area",1577,8/16/86,Dalquest et al.,F,A & YOY,,13s,673516,4089851
+687,Wiggins Copper Mine,"Oklahoma, New Mexico, Colorado tri- state area",1577,7/24/07,Hayes,F,A,L,13s,673516,4089851
+688,BOOMER 103B,Park,2615,9/5/97,BIMP,M,U,TENL,13,,
+689,BOOMER 110,Park,2804,9/6/97,BIMP,M,A,TENL,13,,
+690,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+691,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+692,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+693,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+694,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+695,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+696,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+697,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+698,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+699,Stone City,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+700,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+701,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+702,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+703,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+704,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+705,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+706,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,A,PL,13,512397,4255739
+707,Stone City Mines,Pueblo,1570,8/2/08,BIMP,M,A,NS,13,512397,4255739
+708,Stone City,Pueblo,1570,8/2/08,BIMP,M,A,NS,13,512397,4255739
+709,Stone City Mines,Pueblo,1570,8/2/08,BIMP,F,J,NLNP,13,512397,4255739
+710,Stone City Mines,Pueblo,1570,7/19/10,"Hayes, Navo, Bonewell",,,"MYTH
+cluster",13,512397,4255739
+711,"11 mi W
+Meeker, 0.5 mi S Hwy 64, Hay Gulch Road.
+T1N, R69W,
+sec 36.",Rio Blanco,,8/17/78,Freeman,M,,,12,750087,4409647
+712,"11 mi W
+Meeker, 0.5 mi S Hwy 64, Hay Gulch Road.
+T1N, R69W,
+sec 36.",Rio Blanco,,8/17/78,Freeman,M,,,12,750087,4409647
+713,"6 mi. SW of Meeker, T1N R95W",Rio Blanco,,,Freeman,,,,,,
+714,Meeker,Rio Blanco,,,Freeman,,,,,,
+715,GYPSUM 416A1,San Miguel,1649,9/10/96,BIMP,M,J,TENL,12,687725,4219960
+716,GYPSUM 416A1,San Miguel,1649,9/10/96,BIMP,M,A,TENL,12,687725,4219960
+717,GYPSUM 493I2,San Miguel,1646,9/23/03,BIMP,M,A,TENL,12,684057,4224397
+718,JOE DAVIS 519 A3,San Miguel,1847,6/5/02,BIMP,M,A,NONB,12,689830,4206400
+719,SPUD PATCH 616A1,San Miguel,2257,7/9/96,BIMP,M,J,TENL,12,686408,4203144
+720,TAILHOLT 431A2,San Miguel,1990,9/30/96,BIMP,M,A,TENL,12,679386,4212741
+721,UPPER GROUP 3,San Miguel,1768,10/2/00,BIMP,M,A,TENL,12,686410,4209690
+722,WEDDING BELL 906A1,San Miguel,1911,6/26/05,BIMP,M,A,NONB,12,689799,4225406
+723,WB 906A1,San Miguel,1911,6/26/05,BIMP,M,A,NONB,12,689799,4225406
+724,WEDDING BELL 906A3,San Miguel,1911,8/25/05,BIMP,M,A,NONB,12,689799,4225406
+725,WEDDING BELL 906A3,San Miguel,1911,8/25/05,BIMP,M,A,TENL,12,689799,4225406
+726,GB 504f,Teller,2853,9/13/95,BIMP,M,A,NONB,13,484990,4286570
+727,PIKES PEAK 103,Teller,2502,7/4/97,BIMP,M,A,NONB,13,491354,4322441
+728,Pawnee Buttes,Weld,1570,8/85,Fitzgerald et al. 1989,F,A,L,13,588600,4516200
+729,Pawnee Buttes,Weld,1570,6/88,Fitzgerald et al. 1989,M,A,,13,583500,4519500
+730,Wiggins copper Mine,"Union, NM",1378,9/6/09,"Hayes, Bonewell",,,"~100
+MYTH",13S,0673516,4089851
